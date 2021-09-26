@@ -1,11 +1,11 @@
 const mysql = require('mysql');
 
 const dbInfo = {
-  host:'localhost',
-  port:'3306'
-  ,user:'test1'
-  ,password:'Ekdns1130!'
-  ,database:'test2'
+  host:'',
+  port:''
+  ,user:''
+  ,password:''
+  ,database:''
 }
 
 let dbcon = {
